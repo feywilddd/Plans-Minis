@@ -9,5 +9,6 @@
 * 2 x 50 sw dos r 15
 * 6 x 75 pap dos cr r20 avec palmes
 * 100 kick EZ sans palmes
-si il te reste du temps avant de faire un jeu (ou si il n'y a pas de jeu)
+ 
+#### si il te reste du temps avant de faire un jeu (ou si il n'y a pas de jeu)
 * ? x 25 dives (12.5m z5, donc la première moitié de la piscine z5, puis le reste z2), impair : CR pair : MS
