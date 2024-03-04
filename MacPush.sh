@@ -1,6 +1,6 @@
-C:
+#!/bin/bash
 
-Set-Location C:\Users\jacle\git\entrainements-jet
+cd \Users\jaclev\Plans-Minis
 
 git add .
 
