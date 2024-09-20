@@ -6,9 +6,9 @@
 ## MainSet
 * 8 x 50 kick choix / 1:15 
 * 2 x 100 QNI / 1:45 
-* 3 x
-    * 2 x 50 pull dos / 1:00
-    * 2 x 50 cr / :50
-* 6 x 50 cr progressif/50 /1:10
-* 100 kick EZ sans palmes
-2400 total
+* 3 
+    * 2 x 50 pull dos / 1:10
+    * 2 x 50 cr / :55
+* 4 x 50 cr progressif/50 /1:10
+* 100 kick EZ
+2300 total
