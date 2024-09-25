@@ -1,4 +1,4 @@
-# Natation 24 septembre 2024 Adultes
+# Natation 26 septembre 2024 Adultes
 ## Échauffement
 *  6 x 100 pair =pull dos impair = pull cr r20
 *  4 x 25 dos rattrapage en haut r15
@@ -11,4 +11,4 @@
     * 2 x 50 cr / :55
 * 4 x 50 cr progressif/50 /1:10
 * 100 kick EZ
-2300 total
+2200 total
