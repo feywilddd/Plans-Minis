@@ -9,6 +9,4 @@
 * 3 
     * 2 x 50 pull dos / 1:10
     * 2 x 50 cr / :55
-* 4 x 50 cr progressif/50 /1:10
-* 100 kick EZ
 2200 total
